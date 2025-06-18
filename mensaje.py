@@ -1,8 +1,7 @@
-fernando = "Hola friend"
+fernando = "Hola"
 saludo = "Como estas"
 bienvenida = fernando + " Bienvenido, " + saludo
-print("hola fernando")
+print("hola esquivia")
 
-edad = 40-20
+edad = 5-3
 print (" tu edad es" + edad)
-print ("hola")
