@@ -1,4 +1,4 @@
-fernando = "Hola amigo"
+fernando = "Hola friend"
 saludo = "Como estas"
 bienvenida = fernando + " Bienvenido, " + saludo
 
